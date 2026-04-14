@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Database & logs
+data/futures.db
+shioaji.log
+*.log
+
+# Environment / secrets
+.env
+*.env
+
+# CSV data files (large, auto-generated)
+data/*.csv
+
+# IDE
+.vscode/
+.idea/

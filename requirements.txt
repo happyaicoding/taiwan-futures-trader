@@ -1,0 +1,5 @@
+PyQt6>=6.6.0
+pandas>=2.0.0
+numpy>=1.26.0
+shioaji>=1.2.0
+python-dotenv>=1.0.0
